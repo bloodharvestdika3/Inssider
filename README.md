@@ -217,4 +217,4 @@ inSSIDer is available as a full free version, providing all features and updates
 Ready to take control of your Wi-Fi experience? **Download inSSIDer for free today and unlock the full potential of your wireless connections!**
 
 ---
-**Last updated:** 2026-10-31 19:54:04 UTC
+**Last updated:** 2026-10-31 23:14:42 UTC
